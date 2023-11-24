@@ -32,6 +32,12 @@ The project is developed within the scope of a Data Science course and will be p
 - Nguyen Cao Khoi
 - Nguyen Phan Minh Triet
 
+## Languages and libraries used
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-10303d.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 ## License
 
 This project is distributed under the MIT License. See the details in the LICENSE file.
